@@ -1,2 +1,6 @@
-# DiscordBotStatus
-Discord bot status for Discord.js
+# Discord Bot Status
+Discord bot status for Discord.js.
+
+paste this code in your .JS file, and edit it to how you would like
+
+NOTE: this only works in Discord.js
